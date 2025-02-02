@@ -83,7 +83,7 @@ Please explain in my native (Turkish/Spanish/...) language the definition of the
 - Ask for explanations as if you were a beginner.
 
 ```markdown
-Please explain to me as if I were a 10-year-old the definition of the Integral.
+Please explain to me as if I was a 10-year-old the definition of the Integral.
 ```
 
 ## Enhance Your Notes
@@ -128,6 +128,6 @@ Give me a table with columns: the commands in markdown, descriptions, and exampl
 Give me other table with columns: the math code in latex/markdown showing fractions, powers, integrals, derivatives, (and other basic math examples), descriptions, and examples.
 ``` 
 
-## Link to ChatGPT with few of these prompts
+## Remeber to secure alternatives
 
-Link: https://chatgpt.com/share/67706e79-4d3c-8006-a6b3-7e04643531d0
+- ChatGPT, Gemini, DeepSeek, Qwen
